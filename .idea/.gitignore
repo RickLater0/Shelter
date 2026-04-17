@@ -1,0 +1,140 @@
+# Compiled files
+target/
+out/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# Maven specific
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+*.swp
+*.swo
+*~
+.idea_modules/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/contentModel.xml
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+.idea/**/gradle.xml
+.idea/**/libraries
+.idea/**/modules.xml
+.idea/**/compiler.xml
+.idea/**/encodings.xml
+.idea/**/jarRepositories.xml
+.idea/**/misc.xml
+.idea/**/vcs.xml
+
+# Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.log
+*.orig
+*.old
+*.rej
+
+# NetBeans
+nbproject/
+nb-configuration.xml
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs
+logs/
+*.log
+*.log.gz
+
+# Java heap dumps
+*.hprof
+
+# JetBrains Rider / other IDEs
+*.sln
+*.csproj
+*.user
+*.suo
+*.cache
+*.psess
+*.pidb
+*.dbproj.schemaview
+
+# Local configuration (keep sensitive/external configs out of repo)
+application.properties.local
+config.local.*
+*.secret
+*.key
+*.p12
+
+# Temporary files from JavaFX or other libraries
+*.tmp
+*.temp
+*.lck
+
+# Dependency directories (if using custom libs)
+lib/
+libs/
+lib-ext/
+
+# Package files (if any)
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.dmg
+
+# Maven logs
+maven-exec.log
+maven-compiler-plugin.log
+
+# Reports (e.g., test reports)
+test-output/
+surefire-reports/
+failsafe-reports/
+site/
